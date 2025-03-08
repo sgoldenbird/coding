@@ -1,29 +1,29 @@
 ---
 name: "question"
-about: "문제에 대해 질문하고 싶을 때 사용하세요"
-title: "문제 제목을 입력하세요"
+about: "Use this template when you want to ask a question about a problem."
+title: "Enter the problem title"
 labels: "question"
 assignees: ""
 ---
 
-### 문제 링크
+### Problem Link
 
-[문제 링크](문제 링크)
+[Problem Link](Problem Link)
 
-### 질문
+### Question
 
-- 어떤 부분에서 이해가 가지 않거나 해결이 안되는지 구체적으로 설명
-- 어떤 접근 방법을 시도했는지, 어디서 막혔는지 명시
-- 추가로 피드백이 필요한 부분이나 조언이 필요한 부분이 있다면 명시
+- Provide a detailed explanation of the part you don't understand or where you are stuck.
+- Mention the approach you tried and where you encountered issues.
+- If you need additional feedback or advice, mention it here.
 
-### 피드백
+### Feedback
 
-- 문제 해결을 위한 예시 코드나 아이디어를 적어주세요.
+- Provide example code or ideas to solve the problem.
 
-### 라벨 추가
+### Add Label
 
 - category(array, string, etc)
 
-### 담당자
+### Assignee
 
-- 질문을 올린 사람 (`@username`)
+- Person asking the question (@username)

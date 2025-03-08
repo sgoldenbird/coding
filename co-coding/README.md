@@ -1,22 +1,22 @@
 # Co-Coding Test Practice Repository
 
-## 목표
+## Goals
 
-이 레포지토리는 함께 코딩 테스트 연습을 진행하는 공간입니다.
-팀원들과 협업하여 다양한 문제를 해결하고, 피드백을 통해 실력을 향상시킵니다.
+This repository is a space for practicing coding tests together.
+We collaborate with teammates to solve various problems and improve our skills through feedback.
 
-## 참여자
+## Participants
 
 Sienna
 Adrian
 Rafi
 
-## 협업 규칙
+## Collaboration Rules
 
-- 각자 자신의 브랜치를 생성하고 개별 브랜치에서 코딩합니다. 예: `sienna`
-- 매주 금요일까지 `main` 브랜치에 PR을 보내세요.
-- merge는 매주 토요일에 합니다.
-- 코드 리뷰를 통해 서로 피드백 합니다.
-- 일주일에 4문제 코딩합니다. (난이도 높아지면 조정할 예정)
-- 어려운 문제는 이슈를 작성해 질문하고 해결방안을 공유합니다.
-- 구체적인 진행 과정은 마일스톤을 참고해주세요.
+- Each participant will create their own branch and code individually. Example: sienna
+- Submit a PR to the main branch by **Friday** each week.
+- Merging will occur every Saturday.
+- We will provide feedback to each other through code reviews and issues.
+- We will solve 4 problems per week. (Adjustments will be made if the difficulty increases.)
+- If you encounter difficult problems, create an issue using **the question issue template** to ask questions and share solutions.
+- Refer to **[the milestones](https://github.com/yourusername/yourrepo/milestones)** for the specific progress.
