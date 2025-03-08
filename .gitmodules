@@ -1,3 +1,4 @@
 [submodule "co-coding"]
 	path = co-coding
 	url = https://github.com/sgoldenbird/co-coding.git
+	branch = main

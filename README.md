@@ -1,27 +1,22 @@
-# Coding Practice Log
+# Coding Test Practice Log
 
-이 레포지토리는 코딩테스트 문제를 풀고 학습한 내용을 기록하는 공간입니다.
+This repository is for recording the coding test problems solved and the learning process.
 
-## 사용 언어
+## 💻 Language
 
 - JavaScript
 
-## 목표
+## 🚀 Goals
 
-- 다양한 알고리즘 문제를 풀면서 문제 해결 능력을 향상시킨다.
-- 주기적으로 문제를 풀고 그 풀이 방법을 정리하여 반복 학습을 통해 실력을 쌓는다.
-- 각 문제를 풀 때마다 학습한 알고리즘이나 자료 구조를 기록한다.
+- Improve problem-solving skills by solving various algorithmic problems.
+- Regularly solve problems and document the solutions to reinforce learning through repetition.
+- Record the algorithms and data structures learned with each problem.
 
-## 진행 방식
+## 📈 Learning Progress
 
-- 하루에 1문제씩 풀기
-- 풀었던 문제는 반드시 복습하여 풀이 방법을 정리하기
-- 어려운 문제는 다른 사람의 풀이를 참고하여 풀이를 개선
+- You can find the learning logs and list of solved problems in [the co-coding README](https://github.com/sgoldenbird/co-coding/blob/main/README.md).
+- Problems to revisit are tracked in [issues](https://github.com/sgoldenbird/coding/issues).
 
-## 학습 기록 및 연습한 문제 목록
+## 🤝 Collaboration
 
-학습한 내용은 [학습 기록](learning-log.md) 에서 확인할 수 있습니다.
-
-## Collaboration
-
-이 레포지토리는 개인 학습을 위한 것이지만, 코드 개선이나 피드백이 필요하면 언제든지 커맨트 및 PR 보내주세요
+This repository has the co-coding repository as a submodule, where collaborative coding practice takes place.
