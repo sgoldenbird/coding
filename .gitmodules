@@ -2,3 +2,6 @@
 	path = co-coding
 	url = https://github.com/sgoldenbird/co-coding.git
 	branch = main
+[submodule "solveit"]
+	path = solveit
+	url = https://github.com/front-studium/solveit.git
